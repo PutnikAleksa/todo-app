@@ -1,0 +1,10 @@
+.filter-link {
+    cursor: pointer;
+    margin: 0 10px;
+    color: blue;
+  }
+  
+  .filter-link.active {
+    color: violet;
+  }
+  
